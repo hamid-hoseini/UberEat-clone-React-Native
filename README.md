@@ -6,10 +6,18 @@
   
 
 ## What I have learned in this project are:
-
+  - 
 
  ## Dependencies
   - React Navigation [link](https://reactnavigation.org/)
+  - React Native Vector Icons [link](https://oblador.github.io/react-native-vector-icons/)
+  - React Native Google Places Autocomplete [link](https://www.npmjs.com/package/react-native-google-places-autocomplete/)
+  - React Native Gesture Handler [link](https://www.npmjs.com/package/react-native-gesture-handler/)
+  - React Native Safe Area Context [link](https://www.npmjs.com/package/react-native-safe-area-context?activeTab=versions/)
+  - React Native Bouncy Checkbox [link](https://www.npmjs.com/package/react-native-bouncy-checkbox/)
+  - React Native Dotenv [link](https://www.npmjs.com/package/react-native-dotenv/)
+  - React Redux [link](https://react-redux.js.org/)
+  - Reanimated Bottom Sheet [link](https://www.npmjs.com/package/reanimated-bottom-sheet/)
 
 ### Supported platform
 
