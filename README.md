@@ -1,12 +1,7 @@
-### In Progress...
-
 # Uber Eat clone with REACT Native
   A copy of the Uber Eat app to learn and improve coding skills with the React Native framework.
   (YELP API | Redux | Firebase | Google API)
   
-
-## What I have learned in this project are:
-  - 
 
  ## Dependencies
   - React Navigation [link](https://reactnavigation.org/)
@@ -18,6 +13,11 @@
   - React Native Dotenv [link](https://www.npmjs.com/package/react-native-dotenv/)
   - React Redux [link](https://react-redux.js.org/)
   - Reanimated Bottom Sheet [link](https://www.npmjs.com/package/reanimated-bottom-sheet/)
+
+## App overview
+
+![Uber-eat-clone](https://user-images.githubusercontent.com/7660220/201249814-3c3a8dbd-c781-4eae-9792-fe74c42221bf.png)
+
 
 ### Supported platform
 
