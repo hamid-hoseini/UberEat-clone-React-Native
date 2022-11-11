@@ -3,6 +3,14 @@
   (YELP API | Redux | Firebase | Google API)
   
 
+## What I have learned in this project are:
+  1. React Redux for managing and centralizing application state <sub>[Read More...](https://react-redux.js.org/tutorials/quick-start)</sub>
+  2. Using Environment variables and setup <sub>[Read More...](https://github.com/goatandsheep/react-native-dotenv)</sub>
+  3. Fully customizable animated bouncy checkbox for React Native <sub>[Read More...](https://github.com/WrathChaos/react-native-bouncy-checkbox)</sub>
+  4. Customizable Google Places autocomplete component <sub>[Read More...](https://github.com/FaridSafi/react-native-google-places-autocomplete)</sub>
+  5. Reanimated Bottom Sheet <sub>[Read More...](https://github.com/osdnk/react-native-reanimated-bottom-sheet)</sub>
+
+
  ## Dependencies
   - React Navigation [link](https://reactnavigation.org/)
   - React Native Vector Icons [link](https://oblador.github.io/react-native-vector-icons/)
